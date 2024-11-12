@@ -1,0 +1,1 @@
+This my Lab 7 where I made a task manager where you can see a list of your tasks, add a task and delete a task.

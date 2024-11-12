@@ -1,0 +1,5 @@
+<h2>Add Task</h2>
+<form (submit)="addTask(); $event.preventDefault()">
+    <input [(ngModel)]="newTask" name="newTask" placeholder="Enter a new task" />
+    <button type="submit">Add Task</button>
+</form>
